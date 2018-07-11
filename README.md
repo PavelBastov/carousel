@@ -14,4 +14,16 @@ Navigate to [http://localhost:8888](http://localhost:8888) in the browser.
 
 ## Run from source
 
+_I've been doing this on Windows, so the instructions below only apply if you are on Windows, too. Running from source has not been tested on Linux/OS X._
+
+**Run backend server**
+
+Run Visual Studio 2017 Community Edition and open the `server.sln` file. Press `F5` to build and run the solution.
+
+**Run frontend server**
+
+`cd` to the client directory and run `npm start`.
+
+Navigate to [http://localhost:8888](http://localhost:8888) in the browser.
+
 ## Ways to improve
