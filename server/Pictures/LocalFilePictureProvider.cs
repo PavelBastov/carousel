@@ -14,7 +14,6 @@ namespace server.Pictures
             {
                 var item = new PictureInfo();
                 item.Id = i + 1;
-                item.ContentType = "image/jpeg";
                 item.Url = $"/img/picture{i + 1}.jpg";
                 result.Add(item);
             }
