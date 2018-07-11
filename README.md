@@ -24,6 +24,6 @@ Run Visual Studio 2017 Community Edition and open the `server.sln` file. Press `
 
 `cd` to the client directory and run `npm start`.
 
-Navigate to [http://localhost:8888](http://localhost:8888) in the browser.
+Navigate to [http://localhost:3000](http://localhost:3000) in the browser.
 
 ## Ways to improve
