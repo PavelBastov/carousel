@@ -27,3 +27,10 @@ Run Visual Studio 2017 Community Edition and open the `server.sln` file. Press `
 Navigate to [http://localhost:3000](http://localhost:3000) in the browser.
 
 ## Ways to improve
+
+Below is a list of things off the top of my head that can be improved in the project:
+
+* Add unit tests to frontend :P
+* Merge the pictures on the fly into one sprite and use it as background image on the picture div (with the proper offset). This will remove the flicker when going from picture to picture
+* Add swipe gesture handling (for mobile/tablet)
+* Add picture transition effects (fade in or slide in)
